@@ -1,5 +1,7 @@
 ### Nice to meet you! 👋
 
+I am a Machine Learning Engineer with 1 year of experience, I build, deploy and maintain machine learning models in production.
+
 <!--
 **InstantAI/InstantAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
